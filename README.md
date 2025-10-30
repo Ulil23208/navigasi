@@ -30,15 +30,4 @@ Berikut adalah penjelasan mengenai dua fitur utama yang diimplementasikan dalam 
     2.  String JSON yang diterima kemudian di-decode dari format URL (`URLDecoder.decode`) untuk memperbaiki *bug* yang mengubah spasi menjadi tanda `+`.
     3.  Di `DetailScreen`, String JSON yang sudah bersih ini di-parse kembali (`Json.decodeFromString`) menjadi objek `Item` dan datanya ditampilkan ke pengguna.
 
-## Tangkapan Layar (Screenshots)
 
-[cite_start](Anda **HARUS** mengganti bagian di bawah ini dengan screenshot Anda yang sebenarnya [cite: 26])
-
-**1. Halaman Utama (Home Screen - Menampilkan Daftar)**
-![Home Screen](path/to/your/screenshot_home.png)
-
-**2. Halaman Detail (Detail Screen - Menerima Data)**
-![Detail Screen](path/to/your/screenshot_detail.png)
-
-**3. Halaman Profile (Menampilkan Indikator Aktif)**
-![Profile Screen](path/to/your/screenshot_profile.png)
