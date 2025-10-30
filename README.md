@@ -2,11 +2,6 @@
 
 Aplikasi ini dibuat untuk memenuhi tugas mata kuliah [Nama Mata Kuliah Anda]. Aplikasi ini mendemonstrasikan implementasi pola navigasi modern dan mekanisme pengiriman data antar layar menggunakan Jetpack Compose.
 
-## Anggota Kelompok
-
-* [Nama Lengkap Anda] - [NIM Anda]
-* [Nama Anggota 2] - [NIM Anggota 2]
-* [Nama Anggota 3] - [NIM Anggota 3]
 
 [cite_start](Tugas ini dikerjakan secara berkelompok [cite: 21])
 
